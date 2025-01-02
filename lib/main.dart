@@ -19,3 +19,5 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+//how to remove the debug bunner in flutter 3:08
